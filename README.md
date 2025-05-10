@@ -2,6 +2,13 @@
 
 A full-stack web application that analyzes speech to detect emotions and provides personalized content recommendations based on the detected emotion.
 
+## Demo Video
+
+Check out the demo video of the Speech Emotion Recognition App:
+
+[Watch the Demo Video](https://drive.google.com/file/d/1mRh0RZiG6Hg3IEVO8Tuz6UCRimgaB-sv/view)
+
+
 ## Features
 
 - Real-time speech emotion recognition
